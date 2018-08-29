@@ -124,6 +124,8 @@ background: linear-gradient(
   rgba(229, 229, 229, 1) 0%,
   rgba(255, 255, 255, 1) 99%
 ); /* W3C */
+}
+.navbar-hover {}
 /* NAVBAR-HOVER */
 
 background: rgb(0, 0, 0); /* Old browsers */
